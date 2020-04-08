@@ -1,3 +1,3 @@
 <?php
-mysqli_connect("localhost","root","");
+mysqli_connect("localhost","root","189525");
 ?>
